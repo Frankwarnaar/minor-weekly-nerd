@@ -17,7 +17,7 @@ Every week of my minor, we had a talk. In this repository, you can find summarie
  * [notes](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/6.jasper)
  * [article (1/5)](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/6.%20Progressive%20enhancement.md)
 7. 2017-04-14 - Peter Peerdeman (Lifely)
- * [notes - n/a]()
+ * [notes](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/7.peter.md)
 8. 2017-04-18 - Niels Leenheer (HTML5test)
  * [notes - n/a]()
 9. 2017-05-03 - Eva-Lotta Lamm
