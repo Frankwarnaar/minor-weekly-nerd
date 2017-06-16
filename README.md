@@ -13,10 +13,11 @@ Every week of my minor, we had a talk. In this repository, you can find summarie
 4. 2017-03-14 - Titus Wormer (HvA)
  * [notes](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/4.titus.md)
 5. 2017-03-21 - Bram Duvigneau
+ * [article (2/5](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/5.%20Making%20the%20web%20accessible%20for%20everyone.md)
  * [notes](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/5.bram.md)
 6. 2017-03-28 - Jasper Moelker (De Voorhoede)
  * [notes](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/6.jasper.md)
- * [article (2/5)](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/6.%20Progressive%20enhancement.md)
+ * [article (3/5)](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/6.%20Progressive%20enhancement.md)
 7. 2017-04-14 - Peter Peerdeman (Lifely)
  * [notes](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/7.peter.md)
 8. 2017-04-18 - Niels Leenheer (HTML5test)
