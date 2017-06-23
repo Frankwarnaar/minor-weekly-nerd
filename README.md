@@ -19,16 +19,14 @@ Every week of my minor, we had a talk. In this repository, you can find summarie
  * [article (3/5)](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/6.%20Progressive%20enhancement.md)
  * [notes](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/6.jasper.md)
 7. 2017-04-14 - Peter Peerdeman (Lifely)
+ * [article](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/6.%20Pub%20sub%20pattern.md)
  * [notes](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/7.peter.md)
 8. 2017-04-18 - Niels Leenheer (HTML5test)
- * [notes - n/a]()
-9. 2017-05-03 - Eva-Lotta Lamm
- * [notes - n/a]()
+ * [notes](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/8.niels.md)
+9. 2017-05-03 - Eva-Lotta Lamm (missed)
 10. 2017-05-16 - Nick de Bruijn (Lifely)
- * [notes - n/a]()
+ * [notes](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/10.nick.md)
 11. 2017-05-23 - Guido Bouman (Q42)
- * [notes - n/a]()
+ * [notes](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/11.guido.md)
 12. 2017-05-31 - Léonie Watson
- * [notes - n/a]()
-13. 2017-06-06 - Thijs van der Vossen
- * [notes - n/a]()
+ * [notes](https://github.com/Frankwarnaar/minor-weekly-nerd/blob/master/12.leonie.md)
